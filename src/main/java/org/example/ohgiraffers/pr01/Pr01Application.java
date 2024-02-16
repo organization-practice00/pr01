@@ -9,6 +9,7 @@ public class Pr01Application {
 	public static void main(String[] args) {
 
 		System.out.println("Today is Friday");
+		System.out.println("Issue 1");
 		SpringApplication.run(Pr01Application.class, args);
 	}
 
