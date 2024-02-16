@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Pr01Application {
 
 	public static void main(String[] args) {
+
+		System.out.println("Today is Friday");
 		SpringApplication.run(Pr01Application.class, args);
 	}
 
